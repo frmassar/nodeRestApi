@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 32ad5c30f8ef8ad03613eafcb6ecacc141220b5c
 # Created by https://www.gitignore.io/api/node
 # Edit at https://www.gitignore.io/?templates=node
 
@@ -87,4 +91,8 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/node
+=======
+# End of https://www.gitignore.io/api/node
+>>>>>>> 32ad5c30f8ef8ad03613eafcb6ecacc141220b5c
