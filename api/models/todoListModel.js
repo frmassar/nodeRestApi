@@ -16,7 +16,7 @@ var TaskSchema = new Schema({
             type:String,
             enum:['Pending','Ongoing','Completed']
         }],
-        default:['pending']
+        default:['Pending']
     }
 });
 
